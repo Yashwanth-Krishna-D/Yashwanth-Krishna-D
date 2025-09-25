@@ -57,7 +57,7 @@ I’m currently exploring and working on:
 - 📧 **yashwanth23110541@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yashwanth-krishna-devendran)  
 - 🌐 [Portfolio](https://my-personal-website-2eqv.onrender.com/)  
-
+- ![Profile views](https://komarev.com/ghpvc/?username=Yashwanth-Krishna-D&label=Profile%20views&color=0e75b6&style=flat)
 ---
 
 *✨ Let’s collaborate and build something amazing together!*
