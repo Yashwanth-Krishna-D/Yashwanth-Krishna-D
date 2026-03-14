@@ -12,11 +12,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake Game
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
-          github_user_name: alirezarezvani
+          github_user_name: Yashwanth-Krishna-D
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FFD700&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
 
