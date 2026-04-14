@@ -34,31 +34,24 @@ When I'm not coding, I explore game environment creation and enjoy designing imm
 
 ---
 
-## Open Source Projects
-
-<div align="center">
+## Projects
+<p align="center">
   <a href="https://github.com/Yashwanth-Krishna-D/Bharat-Voyage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth-Krishna-D&repo=Bharat-Voyage&theme=tokyonight&hide_border=true" alt="Bharat Voyage project repository" />
+    <img width="400" src="https://opengraph.githubassets.com/1/Yashwanth-Krishna-D/Bharat-Voyage" />
   </a>
-  <a href="https://github.com/Yashwanth-Krishna-D/Break-The-Bait">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth-Krishna-D&repo=Break-The-Bait&theme=tokyonight&hide_border=true" alt="Break The Bait project repository" />
+  <a href="https://github.com/Yashwanth-Krishna-D/Guidewire-DEVTrails-Hackathon">
+    <img width="400" src="https://opengraph.githubassets.com/1/Yashwanth-Krishna-D/Guidewire-DEVTrails-Hackathon" />
   </a>
-</div>
+</p>
 
-<div align="center">
-  <a href="https://github.com/Yashwanth-Krishna-D/AutoScreen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth-Krishna-D&repo=AutoScreen&theme=tokyonight&hide_border=true" alt="AutoScreen project repository" />
+<p align="center">
+  <a href="https://github.com/Vivesh-G/LMS">
+    <img width="400" src="https://opengraph.githubassets.com/1/Vivesh-G/LMS" />
   </a>
-  <a href="https://github.com/Yashwanth-Krishna-D/Spell-Checker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth-Krishna-D&repo=Spell-Checker&theme=tokyonight&hide_border=true" alt="Spell Checker project repository" />
+  <a href="https://github.com/Yashwanth-Krishna-D/Network-Ticketing">
+    <img width="400" src="https://opengraph.githubassets.com/1/Yashwanth-Krishna-D/Network-Ticketing" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Yashwanth-Krishna-D/M-Connecta">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashwanth-Krishna-D&repo=M-Connecta&theme=tokyonight&hide_border=true" alt="M Connecta project repository" />
-  </a>
-</div>
+</p>
 
 ---
 
@@ -113,10 +106,10 @@ When I'm not coding, I explore game environment creation and enjoy designing imm
 
 ## GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Krishna-D&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Yashwanth Krishna Devendran GitHub stats — stars, commits, PRs, and issues" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-Krishna-D&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Yashwanth Krishna Devendran most used programming languages on GitHub" />
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://git.io/streak-stats">
